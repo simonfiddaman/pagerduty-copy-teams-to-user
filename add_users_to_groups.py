@@ -14,7 +14,7 @@ import requests
 import pdpyras
 pdpyras.APISession.raise_if_http_error = True
 
-SECRETS_FILE = '../secrets.json'
+SECRETS_FILE = 'secrets.json'
 LOGGER_FILE = 'logging.json'
 
 
