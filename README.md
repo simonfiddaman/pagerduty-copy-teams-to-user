@@ -20,8 +20,7 @@ You may use a PagerDuty API User token.
 
 ## Configuration
 
-1. Copy `../secrets.json.example` to `../secrets.json`
-2. Add your configuration items:
+1. Create `secrets.json` with the following configuration item:
     ```JSON
     {
       "pagerduty":{
